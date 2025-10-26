@@ -27,7 +27,7 @@ export default function Home() {
             { name: "About", id: "about" },
             { name: "Contact", id: "contact" }
           ]}
-          brandName="Sartori"
+          brandName="Nanzi"
           button={{
             text: "Shop Now",
             href: "products"
@@ -37,7 +37,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Exquisite Indian Menswear"
+          title="Formal Menswear"
           description="Discover the perfect blend of traditional craftsmanship and contemporary style with our curated collection of premium Indian menswear"
           tag="Premium Collection"
           tagIcon={Crown}
