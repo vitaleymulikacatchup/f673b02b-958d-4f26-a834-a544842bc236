@@ -45,7 +45,7 @@ export default function Home() {
             { text: "Explore Collection", href: "products" },
             { text: "Custom Tailoring", href: "contact" }
           ]}
-          imageSrc="https://images.pexels.com/photos/32151736/pexels-photo-32151736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/tmp/man-wearing-formal-suit-8k-realistic-1761499606108-c449bf48.jpg"
           imageAlt="Elegant Indian man wearing traditional kurta"
           imagePosition="right"
         />
